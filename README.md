@@ -1,5 +1,7 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/coderefinery/word-count/HEAD)
 
+[![DOI](https://sandbox.zenodo.org/badge/368457073.svg)](https://sandbox.zenodo.org/badge/latestdoi/368457073)
+
 # Word count example
 
 These programs will count words in a given text, plot a bar chart of the 10
